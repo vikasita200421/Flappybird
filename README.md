@@ -39,3 +39,20 @@ Object-Oriented Programming (OOP) – Used for game structure.
 Event Handling – MouseListener and KeyListener for controls.
 
 Timers & Animation – Smooth movement using javax.swing.Timer.
+
+**Setup & Run Instructions 💻**
+
+Clone the repository:
+
+  git clone https://github.com/your-username/FlappyBird-Java.git
+  
+  cd FlappyBird-Java
+
+Compile the Java file:
+
+  javac FlappyBird.java
+
+Run the game:
+
+  java FlappyBird
+
