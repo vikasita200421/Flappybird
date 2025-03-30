@@ -1,4 +1,4 @@
-**Flappy Bird Clone - Java Swing 🐦🎮**********
+******Flappy Bird Clone - Java Swing 🐦🎮******
 
 This is a simple Flappy Bird clone built using Java Swing and AWT. The game features a bird that moves through obstacles while avoiding collisions. Players can control the bird using mouse clicks or the space bar to jump. The goal is to pass through as many obstacles as possible and achieve the highest score.
 
