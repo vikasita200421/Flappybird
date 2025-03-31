@@ -56,3 +56,10 @@ Run the game:
 
   java FlappyBird
 
+**Screenshot**
+
+![image](https://github.com/user-attachments/assets/edd710c4-9a7e-4db9-b164-c87023a1f730)
+
+![image](https://github.com/user-attachments/assets/8cd10eaf-3d60-4a74-8842-fd35816a3772)
+
+
